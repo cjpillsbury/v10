@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-preview.6](https://github.com/videojs/v10/compare/@videojs/icons@0.1.0-preview.5...@videojs/icons@0.1.0-preview.6) (2025-11-04)
+
+
+### Miscellaneous Chores
+
+* **@videojs/icons:** Synchronize videojs versions
+
 ## [0.1.0-preview.5](https://github.com/videojs/v10/compare/@videojs/icons@0.1.0-preview.4...@videojs/icons@0.1.0-preview.5) (2025-11-03)
 
 

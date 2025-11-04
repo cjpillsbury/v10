@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.1.0-preview.6](https://github.com/videojs/v10/compare/@videojs/core@0.1.0-preview.5...@videojs/core@0.1.0-preview.6) (2025-11-04)
+
+
+### Miscellaneous Chores
+
+* **@videojs/core:** Synchronize videojs versions
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @videojs/utils bumped to 0.1.0-preview.6
+
 ## [0.1.0-preview.5](https://github.com/videojs/v10/compare/@videojs/core@0.1.0-preview.4...@videojs/core@0.1.0-preview.5) (2025-11-03)
 
 
